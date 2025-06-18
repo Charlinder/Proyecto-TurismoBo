@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
         la_paz: [
             {
                 nombreLugar: "Tiwanaku",
-                img: "/assets/IMG/LAPAZ-Tiwanaku.jpg",
+                img: "assets/IMG/LAPAZ-Tiwanaku.jpg",
                 agenciaLink: "https://kantutaboliviatravel.com",
                 agenciaNombre: "Kantuta Bolivia Travel",
                 descripcion: "Ruinas arqueológicas preincaicas, con templos y pirámides. Civilización ancestral florecida entre 300-1000 d.C., precursor del Imperio Inca.",
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Camino de la Muerte (Yungas)",
-                img: "/assets/IMG/LAPAZ-Camino de la Muerte (Yungas).jpg",
+                img: "assets/IMG/LAPAZ-Camino de la Muerte (Yungas).jpg",
                 agenciaLink: "https://magriturismo.com",
                 agenciaNombre: "Magri Turismo",
                 descripcion: "Ruta de montaña popular para ciclismo extremo. Antigua ruta inca reinventada como sendero turístico.",
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Mercado de las Brujas",
-                img: "/assets/IMG/LAPAZ-mercado-de-las-brujas.jpg",
+                img: "assets/IMG/LAPAZ-mercado-de-las-brujas.jpg",
                 agenciaLink: "https://www.traveltime.com.bo",
                 agenciaNombre: "Travel Time",
                 descripcion: "Mercado tradicional donde se venden pociones y rituales andinos. Herencia de prácticas aymara y quechua, que persisten desde la colonia.",
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Cordillera Real",
-                img: "/assets/IMG/LAPAZ-cordillera-Real.jpg",
+                img: "assets/IMG/LAPAZ-cordillera-Real.jpg",
                 agenciaLink: "https://magriturismo.com",
                 agenciaNombre: "Magri Turismo",
                 descripcion: "Cordillera de más de 600 km, con nevados entre 5,500 m y 6,500 m. Parte de la división natural entre Andes y Amazonía; usada históricamente como ruta de paso ancestral.",
@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
         pando: [
             {
                 nombreLugar: "Lago Bay",
-                img: "/assets/IMG/PANDO-Lago Bay.jpg",
+                img: "assets/IMG/PANDO-Lago Bay.jpg",
                 agenciaLink: "https://www.traveltime.com.bo",
                 agenciaNombre: "Travel Time",
                 descripcion: "Relájate en sus aguas serenas y observa aves exóticas; un lugar perfecto para desconectarse y sentir la magia de la Amazonía.",
@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Río Tahuamanu",
-                img: "/assets/IMG/PANDO- Tahuamanu River.jpg",
+                img: "assets/IMG/PANDO- Tahuamanu River.jpg",
                 agenciaLink: "https://magriturismo.com",
                 agenciaNombre: "Magri Turismo",
                 descripcion: "Navega por sus aguas cristalinas y disfruta de la pesca, paseos en bote y paisajes selváticos únicos en la región.",
@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Parque Nacional Manuripi",
-                img: "/assets/IMG/PANDO-Parque Nacional Manuripi-Heath.jpg",
+                img: "assets/IMG/PANDO-Parque Nacional Manuripi-Heath.jpg",
                 agenciaLink: "https://www.traveltime.com.bo",
                 agenciaNombre: "Travel Time",
                 descripcion: "Adéntrate en un paraíso de biodiversidad: ríos, lagunas y exuberante flora amazónica que te conectan con la naturaleza pura.",
@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Cobija",
-                img: "/assets/IMG/PANDO-CobijaTown.jpg",
+                img: "assets/IMG/PANDO-CobijaTown.jpg",
                 agenciaLink: "https://www.traveltime.com.bo",
                 agenciaNombre: "Travel Time",
                 descripcion: "Descubre la capital amazónica de Bolivia, un rincón cálido rodeado de selva, ideal para vivir la hospitalidad y la tranquilidad del norte.",
@@ -139,7 +139,7 @@ document.addEventListener('DOMContentLoaded', () => {
         beni: [
             {
                 nombreLugar: "Reserva de la Biosfera Beni",
-                img: "/assets/IMG/BENI-Reserva de la Biosfera Beni.webp",
+                img: "assets/IMG/BENI-Reserva de la Biosfera Beni.webp",
                 agenciaLink: "#",
                 agenciaNombre: "Beni Salvático",
                 descripcion: "Explora uno de los humedales más ricos del planeta, santuario de fauna silvestre y paisajes que combinan llanuras, ríos y bosques tropicales.",
@@ -147,7 +147,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Lancha Tahuamanu",
-                img: "/assets/IMG/BENI-Lancha Tahuamanu.jpg",
+                img: "assets/IMG/BENI-Lancha Tahuamanu.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Beni 2",
                 descripcion: "Embárcate en una aventura fluvial para admirar delfines rosados, aves y la exuberancia de los ríos amazónicos de Beni.",
@@ -155,7 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Parque el Pantanal Beni",
-                img: "/assets/IMG/BENI-parque-el-pantanal-beni.jpg",
+                img: "assets/IMG/BENI-parque-el-pantanal-beni.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Beni 3",
                 descripcion: "Descubre un oasis natural lleno de lagunas y fauna exótica, ideal para caminatas, observación de aves y turismo ecológico.",
@@ -163,7 +163,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Riberalta",
-                img: "/assets/IMG/BENI-Riberalta.jpg",
+                img: "assets/IMG/BENI-Riberalta.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Beni 4",
                 descripcion: "Conocida como la “Perla del Acre”, es el destino perfecto para disfrutar de la cultura amazónica, su gastronomía y los atardeceres junto a sus ríos.",
@@ -173,7 +173,7 @@ document.addEventListener('DOMContentLoaded', () => {
         oruro: [
             {
                 nombreLugar: "Chullpares de Macaya",
-                img: "/assets/IMG/ORURO-chullpares-de-macaya.jpg",
+                img: "assets/IMG/ORURO-chullpares-de-macaya.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Oruro Cultura",
                 descripcion: "Visita antiguas torres funerarias prehispánicas rodeadas de paisajes altiplánicos, un viaje a la memoria de las culturas andinas.",
@@ -181,7 +181,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Ciudadela de Alcaya",
-                img: "/assets/IMG/ORURO-CiudadeladeAlcaya.jpg",
+                img: "assets/IMG/ORURO-CiudadeladeAlcaya.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Oruro 2",
                 descripcion: "Recorre un impresionante sitio arqueológico con restos de viviendas y momias milenarias que narran la historia de pueblos ancestrales.",
@@ -189,7 +189,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Museo Ferroviario de Machacamarca",
-                img: "/assets/IMG/ORURO-Museo Ferroviario de Machacamarca.jpg",
+                img: "assets/IMG/ORURO-Museo Ferroviario de Machacamarca.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Oruro 3",
                 descripcion: "Descubre locomotoras y vagones históricos que cuentan la importancia del ferrocarril en el desarrollo de Oruro y Bolivia.",
@@ -197,7 +197,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Parque Nacional Sajama",
-                img: "/assets/IMG/ORURO-ParqueNacionalSajama.jpg",
+                img: "assets/IMG/ORURO-ParqueNacionalSajama.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Oruro 4",
                 descripcion: "Déjate maravillar por la montaña más alta de Bolivia, aguas termales y paisajes únicos de puna andina llenos de vida silvestre.",
@@ -207,7 +207,7 @@ document.addEventListener('DOMContentLoaded', () => {
         cochabamba: [
             {
                 nombreLugar: "Incallajta",
-                img: "/assets/IMG/COCHABAMBA-Incallajta.jpg",
+                img: "assets/IMG/COCHABAMBA-Incallajta.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Cochabamba Inca",
                 descripcion: "Descubre la imponente fortaleza inca más grande de Bolivia, rodeada de paisajes verdes y misterio ancestral.",
@@ -215,7 +215,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Cristo de la Concordia",
-                img: "/assets/IMG/COCHABAMBA-Cristo de la Concordia.jpg",
+                img: "assets/IMG/COCHABAMBA-Cristo de la Concordia.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Cocha 2",
                 descripcion: "Asciende al Cristo más alto de Sudamérica y contempla la mejor vista panorámica de la ciudad de Cochabamba.",
@@ -223,7 +223,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Parque Nacional Carrasco",
-                img: "/assets/IMG/COCHABAMBA-Parque Nacional Carrasco.jpg",
+                img: "assets/IMG/COCHABAMBA-Parque Nacional Carrasco.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Cocha 3",
                 descripcion: "Adéntrate en un paraíso de selva nubosa, cascadas y senderos llenos de aves y mariposas.",
@@ -231,7 +231,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Parque Nacional Tunari",
-                img: "/assets/IMG/COCHABAMBA-Parque Nacional Tunari.jpg",
+                img: "assets/IMG/COCHABAMBA-Parque Nacional Tunari.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Cocha 4",
                 descripcion: "Respira aire puro en montañas que resguardan la biodiversidad андina, ideal para caminatas y avistamiento de fauna.",
@@ -241,7 +241,7 @@ document.addEventListener('DOMContentLoaded', () => {
         santa_cruz: [
             {
                 nombreLugar: "Fuerte de Samaipata",
-                img: "/assets/IMG/SANTA_CRUZ-Fuerte-de-Samaipata-Bolivia.jpg",
+                img: "assets/IMG/SANTA_CRUZ-Fuerte-de-Samaipata-Bolivia.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Samaipata Expediciones",
                 descripcion: "Admira este sitio arqueológico único, una gran roca esculpida que combina legado preinca e inca en medio de montañas exuberantes.",
@@ -249,7 +249,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Parque Ecológico Yvaga Guazu",
-                img: "/assets/IMG/SANTA_CRUZ-Parque Ecólogico Yvaga Guazu.jpg",
+                img: "assets/IMG/SANTA_CRUZ-Parque Ecólogico Yvaga Guazu.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia SCZ 2",
                 descripcion: "Explora jardines, senderos y espacios para aprender y conectarte con la naturaleza cruceña en familia.",
@@ -257,7 +257,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Parque Nacional Noel Kempff Mercado",
-                img: "/assets/IMG/SANTA_CRUZ-Parque Nacional Noel Kempff Mercado.jpg",
+                img: "assets/IMG/SANTA_CRUZ-Parque Nacional Noel Kempff Mercado.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia SCZ 3",
                 descripcion: "Maravíllate con cascadas majestuosas, selva virgen y una de las zonas más biodiversas de Bolivia.",
@@ -265,7 +265,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Ruta del Che",
-                img: "/assets/IMG/SANTA_CRUZ-ruta-del-che-magri-4.jpg",
+                img: "assets/IMG/SANTA_CRUZ-ruta-del-che-magri-4.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia SCZ 4",
                 descripcion: "Recorre pueblos e historias que reviven los últimos pasos del Che, entre paisajes rurales y cultura viva.",
@@ -275,7 +275,7 @@ document.addEventListener('DOMContentLoaded', () => {
         potosi: [
             {
                 nombreLugar: "Salar de Uyuni",
-                img: "/assets/IMG/POTOSI-UYUNI.jpg",
+                img: "assets/IMG/POTOSI-UYUNI.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Uyuni Adventures",
                 descripcion: "Camina sobre el desierto de sal más grande del mundo, un espejo natural que regala paisajes irreales.",
@@ -283,7 +283,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Casa de la Moneda",
-                img: "/assets/IMG/POTOSI-Casa de la Moneda.jpg",
+                img: "assets/IMG/POTOSI-Casa de la Moneda.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Potosi 2",
                 descripcion: "Visita la histórica fábrica colonial de monedas y sumérgete en la rica herencia minera de Potosí.",
@@ -291,7 +291,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Parque Nacional Torotoro",
-                img: "/assets/IMG/POTOSI-Torotoro.jpg",
+                img: "assets/IMG/POTOSI-Torotoro.jpg",
             agenciaLink: "#",
                 agenciaNombre: "Agencia Potosi 3",
                 descripcion: "Explora cavernas, cañones y huellas de dinosaurios en un parque que combina aventura y fósiles.",
@@ -299,7 +299,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Cerro Rico y la Ciudad de Potosí",
-                img: "/assets/IMG/POTOSI-cerro rico y ciudad.jpg",
+                img: "assets/IMG/POTOSI-cerro rico y ciudad.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Potosi 4",
                 descripcion: "Contempla la montaña legendaria que impulsó la riqueza colonial, símbolo de historia minera viva.",
@@ -309,7 +309,7 @@ document.addEventListener('DOMContentLoaded', () => {
         chuquisaca: [
             {
                 nombreLugar: "Casa de la Libertad",
-                img: "/assets/IMG/CHUQUISACA-CasaLibertad.jpg",
+                img: "assets/IMG/CHUQUISACA-CasaLibertad.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Sucre Histórico",
                 descripcion: "Visita la cuna de la independencia boliviana, donde se firmó el Acta de 1825; un tesoro histórico en el corazón de Sucre.",
@@ -317,7 +317,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Museo Nacional de Etnografía y Folklore (MUSEF)",
-                img: "/assets/IMG/CHUQUISACA-museo-nacional-de-etnografia-y-folklore-1.jpg",
+                img: "assets/IMG/CHUQUISACA-museo-nacional-de-etnografia-y-folklore-1.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Chuqui 2",
                 descripcion: "Admira piezas únicas que preservan la riqueza cultural, artesanal y festiva de los pueblos bolivianos.",
@@ -325,7 +325,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Templo de San Lázaro",
-                img: "/assets/IMG/CHUQUISACA-Templo_de_San_Lázaro_Sucre-Bolivia.jpg",
+                img: "assets/IMG/CHUQUISACA-Templo_de_San_Lázaro_Sucre-Bolivia.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Chuqui 3",
                 descripcion: "Conoce uno de los templos más antiguos de Sucre, lleno de historia colonial y detalles arquitectónicos fascinantes.",
@@ -333,7 +333,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Valle de los Ancestros",
-                img: "/assets/IMG/CHUQUISACA-Valle de los Ancestros.jpg",
+                img: "assets/IMG/CHUQUISACA-Valle de los Ancestros.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Chuqui 4",
                 descripcion: "Sumérgete en paisajes espectaculares y sitios arqueológicos que revelan la herencia milenaria de la región.",
@@ -343,7 +343,7 @@ document.addEventListener('DOMContentLoaded', () => {
         tarija: [
             {
                 nombreLugar: "Valle de los Cintis",
-                img: "/assets/IMG/TARIJA-Valle de los Cintis.png",
+                img: "assets/IMG/TARIJA-Valle de los Cintis.png",
                 agenciaLink: "#",
                 agenciaNombre: "Tarija Vinos",
                 descripcion: "Recorre viñedos y pueblos coloniales rodeados de montañas y sabores tradicionales.",
@@ -351,7 +351,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Casa Dorada",
-                img: "/assets/IMG/TARIJA-Casa Dorada.jpg",
+                img: "assets/IMG/TARIJA-Casa Dorada.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Tarija 2",
                 descripcion: "Déjate cautivar por esta mansión ecléctica de fines del siglo XIX, símbolo de la elegancia tarijeña.",
@@ -359,7 +359,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Ruta del Vino",
-                img: "/assets/IMG/TARIJA-Ruta del Vino.jpg",
+                img: "assets/IMG/TARIJA-Ruta del Vino.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Tarija 3",
                 descripcion: "Disfruta tours por bodegas locales, degusta vinos de altura y descubre el encanto vitivinícola de Tarija.",
@@ -367,7 +367,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 nombreLugar: "Museo Nacional Paleontológico Arqueológico",
-                img: "/assets/IMG/TARIJA-Museo Nacional Paleontológico Arqueológico de Tarija.jpg",
+                img: "assets/IMG/TARIJA-Museo Nacional Paleontológico Arqueológico de Tarija.jpg",
                 agenciaLink: "#",
                 agenciaNombre: "Agencia Tarija 4",
                 descripcion: "Explora restos fósiles y hallazgos arqueológicos que cuentan la prehistoria de la región.",
